@@ -5,7 +5,7 @@ const Player = ({ player }) => {
   return (
     <div className='player-section'>
       {player.map((play) => {
-        const { id, img, name, category, role } = play;
+        const { id, img, name, role } = play;
         return (
           <div className='players' key={id}>
             <div className='image-container'>
