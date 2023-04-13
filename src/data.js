@@ -1,0 +1,88 @@
+const data = [
+  {
+    id: 1,
+    img: 'https://c.ndtvimg.com/2022-09/0uhpgqdo_rohit-sharma-afp_625x300_07_September_22.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605',
+    category: 'bats man',
+    name: 'rohit sharma',
+    role: 'right-hand batsman',
+  },
+  {
+    id: 2,
+    img: 'https://c.ndtvimg.com/2023-01/60mdvh98_virat-kohli-bcci_625x300_25_January_23.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605',
+    category: 'bats man',
+    name: 'virat kholi',
+    role: 'right-hand batsman',
+  },
+  {
+    id: 3,
+    img: 'https://s3images.zee5.com/wp-content/uploads/2022/12/ANI-20221204165030.jpg',
+    category: 'bats man',
+    name: 'kl rahul',
+    role: 'right-hand batsman',
+  },
+  {
+    id: 4,
+    img: 'https://im.rediff.com/cricket/2022/jun/10pant-ponting.JPG',
+    category: 'keeper',
+    name: 'rishabh pant',
+    role: 'right-hand batsman',
+  },
+  {
+    id: 5,
+    img: 'https://im.rediff.com/cricket/2022/jun/10pant-ponting.JPG',
+    category: 'keeper',
+    name: 'rishabh pant',
+    role: 'right-hand batsman',
+  },
+  {
+    id: 6,
+    img: 'https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/330000/330069.4.jpg',
+    category: 'all rounder',
+    name: 'hardik pandya',
+    role: 'right-hand batsman',
+  },
+  {
+    id: 7,
+    img: 'https://images.thequint.com/thequint%2F2022-11%2F83c713ff-8208-44a8-84dd-de05bec7a3a5%2F1TDM1347.JPG?auto=format%2Ccompress&fmt=webp&width=720&w=1200',
+    category: 'all rounder',
+    name: 'ravindra jadeja',
+    role: 'left-hand batsman',
+  },
+  {
+    id: 8,
+    img: 'https://images.hindustantimes.com/img/2023/01/03/550x309/bumrah-thumbsup-getty_1669634311648_1672739295566_1672739295566.jpg',
+    category: 'fast bowler',
+    name: 'jasprit bumrah',
+    role: 'right -hand-medium',
+  },
+  {
+    id: 9,
+    img: 'https://images.hindustantimes.com/img/2022/10/13/1600x900/Shami_1665647432999_1665647433263_1665647433263.jpg',
+    category: 'fast bowler',
+    name: 'mohammed shami',
+    role: 'right -hand-medium',
+  },
+  {
+    id: 10,
+    img: 'https://cdn-wp.thesportsrush.com/2023/01/1c82e0b6-bhuvneshwar-kumar-not-playing.jpg',
+    category: 'fast bowler',
+    name: 'bhuvaneshwar kumar',
+    role: 'right -hand-medium',
+  },
+  {
+    id: 11,
+    img: 'https://images.mid-day.com/images/images/2023/jan/Ashwin-ak_d.jpg',
+    category: 'spin',
+    name: 'Ashwin',
+    role: 'right-hand-off',
+  },
+  {
+    id: 12,
+    img: 'https://i.cdn.newsbytesapp.com/images/l98720220616173833.jpeg',
+    category: 'spin',
+    name: 'yuzvendra chahal',
+    role: 'right-hand-off',
+  },
+];
+
+export default data;
